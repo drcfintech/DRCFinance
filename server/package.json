@@ -1,0 +1,7 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "dependencies": {
+    "koa-router": "^7.4.0"
+  }
+}
